@@ -1,4 +1,4 @@
-Certainly, here's the markdown code for the README.md file:
+README.md file:
 
 ````markdown
 # Node Amazon Scraper
